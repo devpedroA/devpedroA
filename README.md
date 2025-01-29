@@ -9,10 +9,10 @@ Curso ADS pela UFBRA 2/5.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarltx&layout=compact)<br/>
 ### Tecnologias que uso no meu dia:
 <div style="display: inline_block"><br/>
-    <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img aling="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img aling="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img aling="center" alt="GIT" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=orange" />
+    <img aling="center" alt="HTML" src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=blue" />
+    <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img aling="center" alt="JS" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img aling="center" alt="JS" src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=red" />
+    <img aling="center" alt="JS" src="https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
