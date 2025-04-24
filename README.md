@@ -55,9 +55,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="github logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/devpedroA/devpedroA/output/snake.svg" alt="Snake animation" />
-
-###
