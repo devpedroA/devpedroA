@@ -33,15 +33,6 @@
 
 <hr/>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpedroA&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroA&layout=compact&theme=radical" height="150"/>
-</p>
-
-<hr/>
-
 <h3 align="center">🚀 Tecnologias</h3>
 
 <div align="center">
