@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/pxdpedro-henrique/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:dev.phtech@gmail.com">
+  <a href="mailto:contato@nullphr.com.br">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -35,10 +35,11 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devpedroA&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroA&layout=compact&theme=radical" height="150"/>
-</div>
+</p>
+
 
 <hr/>
 
