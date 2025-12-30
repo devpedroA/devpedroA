@@ -35,25 +35,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="35" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="35" />
 </div>
