@@ -44,25 +44,11 @@ const pedro = {
 ### Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css&theme=dark" />
 
-<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=reacttable&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lucide-F56040?style=flat-square&logo=lucide&logoColor=white"/>
-
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql&theme=dark" />
-
-<img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma_Accelerate-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/better--auth-4F46E5?style=flat-square&logo=shield&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_AD_SSO-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,azure&theme=dark" />
 
 ### Qualidade de Codigo
 <img src="https://skillicons.dev/icons?i=ts,vitest&theme=dark" />
-
-<img src="https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white"/>
 
 ### Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
