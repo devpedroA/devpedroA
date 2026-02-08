@@ -23,7 +23,6 @@ const pedro = {
     nome: "Pedro Andrade",
     formacao: "Análise e Desenvolvimento de Sistemas",
     stack: ["Next.js 15", "React 19", "TailwindCSS 4", "Prisma 6", "MySQL 8"],
-    auth: "better-auth + Azure AD SSO",
     qualidade: ["TypeScript 5", "Biome", "Vitest", "Testing Library"],
     foco: "Código limpo, UI responsiva e sistemas que funcionam de verdade",
     filosofia: "Não sou apaixonado por tecnologia desde pequeno — sou apaixonado por resolver problemas."
@@ -91,7 +90,7 @@ const pedro = {
 <a href="https://github.com/devpedroA" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/pxdpedro-henrique/" target="_blank">
+<a href="https://www.linkedin.com/in/pedrodevfull/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/pex.ph/" target="_blank">
