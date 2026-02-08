@@ -84,7 +84,7 @@ const pedro = {
 <a href="https://wa.me/5541991798303" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="mailto:dev.phtech@gmail.com" target="_blank">
+<a href="mailto:contato.pedrodevfullstack@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/devpedroA" target="_blank">
